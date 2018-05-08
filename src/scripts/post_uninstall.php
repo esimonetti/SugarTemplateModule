@@ -1,0 +1,2 @@
+<?php
+// post uninstall actions
